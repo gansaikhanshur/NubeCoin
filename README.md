@@ -2,7 +2,7 @@
 ---
 
 1. This is a social token created only for entertainment purposes and holds no value. Hence, it will not be available at any exchanges for buying/selling.
-2. However, if you would like to own NubeCoin (the best and cutest crypto token out there), please reach out to me at ```gansaikhanshur@gmail.com``` or visit ```gansaikhanshur.github.io```
+2. However, if you would like to own NubeCoin (the best and cutest crypto token out there), please reach out to ```gansaikhanshur@gmail.com``` or visit ```gansaikhanshur.github.io```
 
 **Acknowledgements**
 ---
