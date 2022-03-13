@@ -1,4 +1,4 @@
-![logo](NubeCoin.jpg)
+![logo](./images/NubeCoin.png)
 
 **Important**
 ---
