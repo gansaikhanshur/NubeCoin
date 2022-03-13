@@ -9,4 +9,4 @@
 
 + [SolanaDocs](https://docs.solana.com/cli/install-solana-cli-tools) for installation.
 + [Rust Lang](https://www.rust-lang.org) for installing Rust.
-+ [NetworkChuch](https://www.youtube.com/c/NetworkChuck) for insporation.
++ [NetworkChuch](https://www.youtube.com/c/NetworkChuck) for inspiration.
