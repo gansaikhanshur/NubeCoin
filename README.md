@@ -1,5 +1,3 @@
-![logo](./images/NubeCoin.png)
-
 **Important**
 ---
 
